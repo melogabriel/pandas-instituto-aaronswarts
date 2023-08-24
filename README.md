@@ -1,6 +1,6 @@
 # Desbravando Pandas
 
-Curso de Pandas criado em conjunto com o Instituo Aaron Swartz
+Curso de Pandas criado em conjunto com o Instituto Aaron Swartz
 
 ## Sobre o curso
 
